@@ -51,7 +51,7 @@ Approximate Nearest Neighbor (ANN) search sacrifices perfect accuracy for dramat
 - Implements various algorithms (HNSW, Product Quantization, LSH)
 - Requires pre-processing to build index structures
 
-![Semantic and Sparse Vector Search](VS2.png)
+![Semantic and Sparse Vector Search](Vs2.png)
 
 ### Semantic Search
 
@@ -131,4 +131,4 @@ Email: pejman.ebrahimi@uni.li
 
 ---
 
-© 2023 Dr. Pejman Ebrahimi, University of Liechtenstein. All rights reserved.
+© 2025 Dr. Pejman Ebrahimi, University of Liechtenstein. All rights reserved.
